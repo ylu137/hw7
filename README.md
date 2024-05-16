@@ -82,7 +82,7 @@ The two data above will be merged and analyzed.
   ```
 # homework 7
 - This week, we analyze by:
-  1. using [non-parametric](https://github.com/ylu137/hw7/nonparametric.png) (Kaplan Meier)
+  1. using [non-parametric](https://github.com/ylu137/hw7/blob/main/nonparametric.png) (Kaplan Meier)
   2. using Semi-parametric (cox regression)
   3. using parametric (Weibull regression) method
   4. look at the association between self-assessed health status and mortality
